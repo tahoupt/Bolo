@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "cd3c8fec-2622-0410-8224-ba1392aa9f32++128",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "cd3c8fec-2622-0410-8224-ba1392aa9f32++128" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "cd3c8fec-2622-0410-8224-ba1392aa9f32++128" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "98E9A9A6-3DDC-4CB6-ABDB-8FACDD184906",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "cd3c8fec-2622-0410-8224-ba1392aa9f32++128" : "Bolo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Bolo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Bolo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.bcybernetics.com\/bc",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "cd3c8fec-2622-0410-8224-ba1392aa9f32++128"
+    }
+  ]
+}

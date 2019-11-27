@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>98E9A9A6-3DDC-4CB6-ABDB-8FACDD184906</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bolo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>cd3c8fec-2622-0410-8224-ba1392aa9f32++128</key>
+		<string>https://svn.bcybernetics.com/bc/Bolo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bolo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>cd3c8fec-2622-0410-8224-ba1392aa9f32++128</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>cd3c8fec-2622-0410-8224-ba1392aa9f32++128</key>
+		<string>https://svn.bcybernetics.com/bc</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.bcybernetics.com/bc/Bolo/Bolo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>cd3c8fec-2622-0410-8224-ba1392aa9f32++128</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>cd3c8fec-2622-0410-8224-ba1392aa9f32++128</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bolo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
